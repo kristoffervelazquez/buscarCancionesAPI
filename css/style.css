@@ -101,6 +101,8 @@ h2 {
     width: 40px;
     height: 40px;
     position: relative;
+    margin-left: 49%;
+    margin-top: 3rem;
     animation: sk-chase 2.5s infinite linear both;
   }
   
